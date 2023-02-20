@@ -1,0 +1,17 @@
+<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" d="m110.851252,128l110.851251,64l-110.851251,64l-110.851252,-64l110.851252,-64z" fill="#2366d1"/>
+  <path id="svg_2" d="m110.851252,64l110.851251,64l-110.851251,64l-110.851252,-64l110.851252,-64z" fill="#609dff"/>
+  <path id="svg_3" d="m110.851252,0l110.851251,64l-110.851251,64l-110.851252,-64l110.851252,-64z" fill="#a4c7ff"/>
+  <g id="svg_4" fill="#333" transform="translate(300,55.69499969482422) scale(0.699999988079071) ">
+   <text stroke="null" transform="rotate(-21.953731536865234 261.87277221679676,147.8214263916015) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_6" y="157.821426" x="255.232143" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  </g>
+  <text stroke="null" transform="matrix(9.59421527818873,0,0,10.748351293473702,-2344.2957737575407,-841.6579807967953) " xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_12" y="97.354352" x="270.7079" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">ASHEN</text>
+ </g>
+</svg>
